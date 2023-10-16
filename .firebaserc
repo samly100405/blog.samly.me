@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "personal-website-6040b"
+  },
+  "targets": {
+    "personal-website-6040b": {
+      "hosting": {
+        "blog": [
+          "blog-ac5c9"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
