@@ -1,0 +1,15 @@
+baseURL: 'https://blog.samly.me/'
+languageCode: en-us
+title: Sam Ly
+theme: PaperMod
+
+params:
+    homeInfoParams:
+        Title: Hi there 👋
+        Content: Welcome to my blog. Hope you enjoy!
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/samly100405/"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/samly-me/"
