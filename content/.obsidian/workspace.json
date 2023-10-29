@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "b2e647e056f895e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "83853f19310aab5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81c7b2eebb6597a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/imperative-vs-declarative-code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e034cbe5c2659400",
+    "type": "split",
+    "children": [
+      {
+        "id": "50dae6dab8269c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "094b1e060af6be5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "1486b0082e454112",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8855f9b007e9bae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97b2d8412004c0dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "edc43c7e9ca6b2a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822df81737e957a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/imperative-vs-declarative-code.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8e9e3b35cfb0916",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/imperative-vs-declarative-code.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "554844effc48b2d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13e10b0ec971d2ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/imperative-vs-declarative-code.md"
+              }
+            }
+          },
+          {
+            "id": "0a22f22673905209",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "81c7b2eebb6597a5",
+  "lastOpenFiles": [
+    "posts/imperative-vs-declarative-code.md",
+    "posts/googoogaga.md",
+    "posts/Noel Sturgeon - The Politics of the Natural in U.S. History and Popular Culture.md",
+    "School/Fall 2023/ENG 1103M/Essay 1 Notes.md",
+    "School/Fall 2023/CS 1300/Resources/Judith L. Gersting - Mathematical Structures for Computer Science (2014, W. H. Freeman) - libgen.li.pdf",
+    "School/Fall 2023/ENG 1103M/Resources/Lure Excerpt-1.pdf",
+    "School/Fall 2023/CS 1300/Resources/discmath.pdf",
+    "School/Fall 2023/CS 1300/Proof of Correctness.md",
+    "School/Fall 2023/CS 1300/Resources/6 - Proof of Correctness.pdf",
+    "School/Fall 2023/CS 1300/Resources/5 - Logic Programming.pdf",
+    "Projects/Youtube Ideas/Imperative vs. Declarative.md",
+    "Projects/Personal Brand.md",
+    "Projects/Youtube Ideas/Youtube.md",
+    "Projects/CS Projects.md",
+    "Projects/Internships.md",
+    "Pasted Images/Pasted image 20231016000420.png",
+    "Projects/Tutoring.md",
+    "Projects/HTML and CSS notes (The Odin Project).md",
+    "School/Fall 2023/CS 1300/Time Complexity.md",
+    "Pasted Images/Pasted image 20231014180428.png",
+    "School/Fall 2023/CS 1300/Number theory.md",
+    "School/Fall 2023/CS 1300/Recursion.md",
+    "Pasted Images/Pasted image 20231012014548.png",
+    "Pasted Images/Pasted image 20231012013638.png",
+    "Pasted Images/Pasted image 20231012010644.png",
+    "School/Fall 2023/ENG 1103M/Resources/Understanding Comics (The Invisible Art) By Scott McCloud_Ch.1-2-1.pdf",
+    "School/Fall 2023/ENG 1103M/Lure Notes.md",
+    "School/Fall 2023/CS 1400/Java.md",
+    "School/Fall 2023/CS 1400/Procedural Programing vs. Object Orientated Programming.md",
+    "School/Fall 2023/CS 1400/Computer Systems.md",
+    "Pasted Images/Pasted image 20231010170451.png",
+    "School/Fall 2023/CS 1300/Resources/Hw2.pdf",
+    "School/Fall 2023/CS 1300/Resources/13 - Analysis of Algorithms.pdf",
+    "School/Fall 2023/CS 1300/Resources/12 - Recurrence Relations.pdf",
+    "School/Fall 2023/CS 1300/Resources/10 - Number Theory.pdf",
+    "Pasted Images/Pasted image 20230925142215.png",
+    "Pasted Images/Pasted image 20230925162952.png",
+    "Pasted Images/Pasted image 20231004161348.png",
+    "Pasted Images/Pasted image 20231004161607.png",
+    "Projects/Untitled.md",
+    "Projects/The Odin Project/Untitled.md",
+    "School/Fall 2023/PHL 2020/Chapter 4 Notes.md",
+    "School/Fall 2023/CS 1300/Mathematical Induction.md",
+    "School/Fall 2023/CS 1300/Proof Techniques.md",
+    "School/Fall 2023/ENG 1103M/Noel Sturgeon - The Politics of the Natural in U.S. History and Popular Culture.md",
+    "School/Fall 2023/ENG 1103M/Jean Kilbourne - Two Ways Women Can Get Hurt Notes.md"
+  ]
+}
