@@ -1,9 +1,11 @@
 +++
 title = 'Imperative vs Declarative Code'
 date = 2023-10-29T13:47:42-07:00
-draft = true
+draft = false
 ShowToc = true
 TocOpen = true
+tags = ["programming-paradigms"]
+authors = ["Sam Ly"]
 +++
 
 

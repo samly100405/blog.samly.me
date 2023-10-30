@@ -4,6 +4,8 @@ title: Sam Ly
 theme: PaperMod
 
 params:
+    ShowBreadCrumbs: true
+
     homeInfoParams:
         Title: Hi there 👋
         Content: Welcome to my blog. Hope you enjoy!
@@ -13,3 +15,13 @@ params:
           url: "https://github.com/samly100405/"
         - name: linkedin
           url: "https://www.linkedin.com/in/samly-me/"
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+menu:
+    main:
+        - name: Tags
+          url: tags/
+          

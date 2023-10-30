@@ -4,4 +4,5 @@ date = {{ .Date }}
 draft = true
 ShowToc = true
 TocOpen = true
+authors = ["Sam Ly"]
 +++
