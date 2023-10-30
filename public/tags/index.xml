@@ -5,6 +5,16 @@
     <link>https://blog.samly.me/tags/</link>
     <description>Recent content in Tags on Sam Ly</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://blog.samly.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Oct 2023 13:47:42 -0700</lastBuildDate><atom:link href="https://blog.samly.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>programming-paradigms</title>
+      <link>https://blog.samly.me/tags/programming-paradigms/</link>
+      <pubDate>Sun, 29 Oct 2023 13:47:42 -0700</pubDate>
+      
+      <guid>https://blog.samly.me/tags/programming-paradigms/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
