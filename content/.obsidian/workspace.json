@@ -11,12 +11,8 @@
             "id": "4710fc5851178f23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/imperative-vs-declarative-code.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/imperative-vs-declarative-code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/imperative-vs-declarative-code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/imperative-vs-declarative-code.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,10 +151,10 @@
   },
   "active": "4710fc5851178f23",
   "lastOpenFiles": [
-    "tags",
-    "posts/googoogaga.md",
     "posts/imperative-vs-declarative-code.md",
+    "posts/googoogaga.md",
     "posts/Noel Sturgeon - The Politics of the Natural in U.S. History and Popular Culture.md",
+    "tags",
     "School/Fall 2023/ENG 1103M/Essay 1 Notes.md",
     "School/Fall 2023/CS 1300/Resources/Judith L. Gersting - Mathematical Structures for Computer Science (2014, W. H. Freeman) - libgen.li.pdf",
     "School/Fall 2023/ENG 1103M/Resources/Lure Excerpt-1.pdf",
@@ -194,7 +186,6 @@
     "School/Fall 2023/CS 1300/Resources/Hw2.pdf",
     "School/Fall 2023/CS 1300/Resources/13 - Analysis of Algorithms.pdf",
     "School/Fall 2023/CS 1300/Resources/12 - Recurrence Relations.pdf",
-    "School/Fall 2023/CS 1300/Resources/10 - Number Theory.pdf",
     "Pasted Images/Pasted image 20230925142215.png",
     "Pasted Images/Pasted image 20230925162952.png",
     "Pasted Images/Pasted image 20231004161348.png",
